@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Josephdevboy
-- 👀 I’m interested inwe developement zand learning
+- 👀 I’m interested in web development and learning
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on as many excitig stuff as possible
+- 💞️ I’m looking to collaborate on as much exciting stuff as possible
 
 
 <!---
